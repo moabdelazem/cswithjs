@@ -12,5 +12,8 @@
   "keywords": [],
   "author": "Mohamed Abdelazem",
   "license": "MIT",
-  "description": "Algorithms and data-structures implemented on JavaScript"
+  "description": "Algorithms and data-structures implemented on JavaScript",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
